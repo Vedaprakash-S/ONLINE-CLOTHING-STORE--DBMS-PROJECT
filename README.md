@@ -9,7 +9,7 @@ After confirming the order, the system automatically generates a detailed bill s
 With its intuitive interface and robust functionality, the Online Clothing Store Management System aims to enhance the overall shopping experience for users while optimizing operational efficiency for the store administrators.
 
 
-Tools Used:*Java*MYSQL
+Tools Used:*Java(eclipse),*  MYSQL
 
 
 CONTACT DETAILS:vedaprakash.22cse@sonatech.ac.in
