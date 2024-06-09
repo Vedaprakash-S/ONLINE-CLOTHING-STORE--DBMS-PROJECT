@@ -12,8 +12,8 @@ With its intuitive interface and robust functionality, the Online Clothing Store
 Tools Used:*  Java(eclipse),*  MYSQL
 
 
-CONTACT DETAILS:  vedaprakash.22cse@sonatech.ac.in
+CONTACT DETAILS:  vedaprakash.22cse@sonatech.ac.in,         sheikabdulla.22cse@sonatech.ac.in
 
-                  sheikabdulla.22cse@sonatech.ac.in
+           
 
               
